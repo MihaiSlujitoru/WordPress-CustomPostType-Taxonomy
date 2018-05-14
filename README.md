@@ -1,1 +1,1 @@
-# WordPress-CustomPostType-Taxonomy
+# WordPress Custom Taxonomy With Same Slug As Custom Post Type
